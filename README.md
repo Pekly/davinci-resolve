@@ -8,7 +8,7 @@ Password: 2024
 
 # Showcase
 
-![photo_2024-03-13_17-14-54](https://github.com/Shiviiiiiiii/ableton-live-11/assets/84573980/4d3d5dde-e49a-4649-820e-61ae524a890c)
+![davinchi](https://github.com/Pekly/Ccleaner/assets/92947595/eda8a4ce-3001-4ec2-a768-07bcb317806b)
 ## License
 
 [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)
